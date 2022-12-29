@@ -1,0 +1,30 @@
+DRIVE:
+So You decide to drive so you can get there quicker. On the ride to the city, you see a stray dog. Do you stop or keep driving?
+STOP:
+You decide to pick up the dog. As you pick him up, you notice he has a tag with his address on there, and it's not far from the happy hour location. Do you return the dog, or do you cut the tag and keep him as your own?
+RETURN:
+You take the dog back to it's owner. You meet a lovely elderly woman. For your kind heart, she gives you a $50 bill. MORE FOOD AND DRINKS!
+CUT:
+You go to the bar. You leave the dog in your car with the air on. The dog ends up peeing all over your cloth seats. Karma???
+GO:
+You decide to keep driving. You don't want to be late for happy hour. You find a great parking 	spot. On your walk to the restaurant, you see girl scouts selling cookies. Do you buy cookies, or not?
+BUY:
+You decide to buy the cookies. The cookies cost $4. Because your in a rush, you mistakenly give $3 in ones and a $20. now you an only afford the food, no drinks.
+NOT:
+You end up drunk and happy.
+SUBWAY:
+So You decide to take the subway. You see a homeless man begging for money. Do you give him money? yes or no?
+YES:
+You decide to stop and give him a few dollars. You end up missing the train. you don't want to miss the low prices. Do you order a lyft, or do you just wait 30 minutes for the next train?
+LYFT:
+You make it to the bar on time, but since the lyft charged you rush hours rates, you can only get 1 drink.
+TRAIN:
+You make it to the bar. You end up getting there late. Your friend is mad, but soon changes mood when you bump into a coworker who ends up buying a few rounds for you both!
+NO:
+You decide to keep rushing to your train. Now your at the bar. Do you sit at the bar, or get a table?
+BAR:
+You guys decide to sit at the bar.You meet some new friends that buy you drinks all night, even full prices once the happy hour is over.
+TABLE:
+You guys decide to sit at the bar. You order your favorites. You get the bill, and its double what you thought. The table was not included in the happy hour prices. Now your washing dishes in the back.
+ELSE:
+Invalid entry, please try again.
